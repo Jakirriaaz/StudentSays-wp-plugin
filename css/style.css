@@ -1,0 +1,69 @@
+
+/* custome css */
+
+.student-comment {
+    padding-top: 20px;
+}
+
+.student-comment ul {
+    text-align: center;
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.slick-slide img {
+    display: block;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 110px;
+}
+
+.top-sec a img {
+    display: block;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 110px;
+}
+
+button.slick-next.slick-arrow {
+    position: relative;
+    top: -380px;
+    left: 590px;
+    background: #c1c1c1;
+    border-radius: 08%;
+    transition: all 0.5s ease;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+button.slick-next.slick-arrow:hover {
+    background: #4a4abd;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+button.slick-prev.slick-arrow {
+    position: relative;
+    top: 250px;
+    left: -110px;
+    padding: 18px 4px;
+    background: #c1c1c1;
+    border-radius: 08%;
+    transition: all 0.5s ease;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+button.slick-prev.slick-arrow:hover {
+    background: #4a4abd;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+}
