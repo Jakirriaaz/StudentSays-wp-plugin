@@ -9,7 +9,7 @@ Requires PHP: 5.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-StudentSays - Make comment or feedback plugin displayed the comment or feedback of the education organization by slides. This plugin will help any education center like university, college, school, and also students for making their own opinion.
+Student Says – Make a comment or feedback plugin to display the comment or feedback of the education organization by slides. This plugin will help any education center like university, college, school, and also students for making their own opinion.
 
 == Description ==
 
